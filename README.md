@@ -18,6 +18,8 @@ This is a 2 player game, where one player1 plays with red counters and the playe
 
 The "Reset" button can be used to reset the board at all points in the game, except when the game has been won. After a win, the "Play again" button can be used to start a new game. 
 
+[Try it out](https://srija-mukh.github.io/connect-four/)
+
 A score board at the bottom of the screen records how many times red and yellow counters win, since the last time the browser tab was refreshed. 
 
 ## Limitations and Improvements
